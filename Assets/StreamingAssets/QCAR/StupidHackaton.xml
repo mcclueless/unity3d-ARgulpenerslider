@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Namecard_Front" size="300.000000 458.035706" />
+    <ImageTarget name="Gulpener-logo-2014" size="15.000000 9.825000" />
+  </Tracking>
+</QCARConfig>
